@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Mohamed brahem PDO</title>
+<title>Mohamed brahem PDO 92a69ed3</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
@@ -15,9 +15,9 @@ partially done and serves only as a starting point for the assignment.
 </p>
 <p>
 Attempt to go to
-<a href="autos.php"> autos.php </a> without logging in - it should fail with an error message.
+<a href="view.php"> view.php </a> without logging in - it should fail with an error message.
 <p>
-<a href=""
+<a href="https://github.com/MohamedEbrahemDmrdash/PDO_phpDB.git"
  target="_blank">Source Code for this Application</a>
 </p>
 </div>
